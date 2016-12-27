@@ -6,7 +6,7 @@
   "main": "index.js",
   "author": {
     "name": "Chien",
-    "email": "hoanganhchiensoict@gmail.com",
+    "email": "hoanganhchiensoict@gmail.com"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,6 @@
     "react-native",
     "react-component",
     "android",
-    "setting",
+    "setting"
   ]
 }
