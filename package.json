@@ -1,0 +1,22 @@
+{
+  "name": "react-native-setting",
+  "version": "1.0.0",
+  "description": "A module support upload file to server ",
+  "license": "MIT",
+  "main": "index.js",
+  "author": {
+    "name": "Chien",
+    "email": "hoanganhchiensoict@gmail.com",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anhchien/react-native-settings.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "android",
+    "setting",
+  ]
+}
